@@ -12,19 +12,24 @@ body {
     box-sizing: border-box;
 }
 
-.images {
+.header-content {
     display: flex;
     align-items: center;
+    justify-content: center;
     margin-bottom: 20px;
 }
 
+.images {
+    margin-right: 20px;
+}
+
 .logo {
-    width: 800px;
-    height: 800px;
+    width: 150px; /* Adjust the width as needed */
+    height: auto; /* Maintain aspect ratio */
 }
 
 .college {
-    text-align: center;
+    text-align: left;
 }
 
 .grid-container {
