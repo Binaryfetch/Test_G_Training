@@ -25,7 +25,7 @@ body {
 
 .logo {
     width: 30px; /* Adjust the width as needed */
-    height: 30px; /* Maintain aspect ratio */
+    height: auto; /* Maintain aspect ratio */
 }
 
 .college {
